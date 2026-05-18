@@ -1,16 +1,24 @@
-# spendwise
+# SpendWise - Expense Tracker App
 
-A new Flutter project.
+A Flutter-based expense tracker mobile application developed as a university semester project.
 
-## Getting Started
+## Features
+- Add daily expenses
+- Categorize spending
+- Local data storage using Hive
+- Simple and clean UI
+- Expense management workflow
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Hive Database
+- VS Code
 
-A few resources to get you started if this is your first Flutter project:
+## Project Type
+University Semester Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/816d9b2c-9692-4ef4-8e87-3287f467c617" />
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/bbda4833-0527-4e91-babb-8b4ddcb4ddd0" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
